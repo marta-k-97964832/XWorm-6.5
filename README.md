@@ -43,8 +43,6 @@ We encourage ethical use of this software, adhering to all applicable laws and r
 The downloadable archive is password-protected for security.
 **Archive Password: `2025`**
 
-[Further instructions on how to use Xworm 6.5, once extracted, will go here. This might include compilation steps, prerequisites, and basic command-line usage examples if applicable.]
-
 ## Contributing
 
 We welcome contributions from the community to further enhance Xworm. Please refer to our `CONTRIBUTING.md` for guidelines on how to submit pull requests, report bugs, or suggest new features.
